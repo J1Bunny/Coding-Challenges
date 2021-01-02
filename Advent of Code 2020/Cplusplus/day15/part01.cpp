@@ -12,11 +12,6 @@
 
 using namespace std;
 
-string convertToBinary(long inputDecimal);
-long convertToDecimal(string inputBinary);
-string fillZeros(string inputString, long stringLength);
-void printLine(string inputArray[], long stringLength);
-
 int main() {
 	string fileString = "";
 	int age = 0;
