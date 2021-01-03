@@ -108,4 +108,19 @@ https://adventofcode.com
 <td><a href="https://github.com/J1Bunny/Coding-Challenges/blob/main/Advent%20of%20Code%202020/Cplusplus/day16/part01.cpp">01/02/21</a></td>
 <td><a href="https://github.com/J1Bunny/Coding-Challenges/blob/main/Advent%20of%20Code%202020/Cplusplus/day16/part02.cpp">01/02/21</a></td>
 </tr>
+<td>17</td>
+<td><a href="https://adventofcode.com/2020/day/17">Conway Cubes</a></td>
+<td><a href="https://github.com/J1Bunny/Coding-Challenges/blob/main/Advent%20of%20Code%202020/Cplusplus/day17/part01.cpp">01/03/21</a></td>
+<td><a href="https://github.com/J1Bunny/Coding-Challenges/blob/main/Advent%20of%20Code%202020/Cplusplus/day17/part02.cpp">01/03/21</a></td>
+</tr>
+<td>18</td>
+<td><a href="https://adventofcode.com/2020/day/18">Operation Order</a></td>
+<td><a href="https://github.com/J1Bunny/Coding-Challenges/blob/main/Advent%20of%20Code%202020/Cplusplus/day18/part01.cpp"></a></td>
+<td><a href="https://github.com/J1Bunny/Coding-Challenges/blob/main/Advent%20of%20Code%202020/Cplusplus/day18/part02.cpp"></a></td>
+</tr>
+<td>19</td>
+<td><a href="https://adventofcode.com/2020/day/19">Monster Messages</a></td>
+<td><a href="https://github.com/J1Bunny/Coding-Challenges/blob/main/Advent%20of%20Code%202020/Cplusplus/day19/part01.cpp"></a></td>
+<td><a href="https://github.com/J1Bunny/Coding-Challenges/blob/main/Advent%20of%20Code%202020/Cplusplus/day19/part02.cpp"></a></td>
+</tr>
 </table>
